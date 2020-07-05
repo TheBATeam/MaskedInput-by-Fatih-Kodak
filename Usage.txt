@@ -1,0 +1,14 @@
+
+Masked Input
+
+Call:  maskedinput.exe [-h|-v] <title>
+
+Options:
+          -h        Print this message
+          -v        Print version number
+
+Examples: maskedinput.exe "Type your masked text here" > result.txt
+          maskedinput.exe "" > result.txt
+
+by Fatih Kodak
+http://www.f2ko.de
